@@ -3,7 +3,7 @@ Demo of how I do my daily journal using github
 
 ## Background
 I have kept a daily journal for a number of years. Being in tech, I initially tried several notes apps and journal apps but found them all too restrictive and difficult to keep up. Eventually, I settled on nice solid paper, and I tried several options there too. I tried the lined journals, I tried the grids, I tried the dot journals, and the blank ones. Of all of those, I loved the dots and the blank ones, since I felt the most free to express myself however I liked.
-* I did settle on one really nice implementation, which involved a dot page and a pre-filled task page with day summaries on the other page, one set of each per day. This was such a good way to do it that the disadvantages I am about to list were almost outweighed and I almost stayed with this method. Here is where you can buy such a journal: 
+* I did settle on one really nice implementation, which involved a dot page and a pre-filled task page with day summaries on the other page, one set of each per day. This was such a good way to do it that the disadvantages I am about to list were almost outweighed and I almost stayed with this method. Here is where you can buy such a journal: [Freestyle Journal](https://www.amazon.com/dp/B07NVNNBVM/ref=cm_sw_em_r_mt_dp_3WHW42TW63JM9A720Y9Y?_encoding=UTF8&psc=1)
 
 I went for years using these, journaling every day and I had a few things I noticed.
 1. tasks often had to be in a single place I could refer back to, or I would have to transfer them over into the new day. I did not like having to spend time copying over lists of things every day but this was the best view, when it was all in one place
