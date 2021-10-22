@@ -26,3 +26,5 @@ The surprising benefits
 * Can have ascii art in my entries!
 * Can easily share things I write and split things out into other documents - nothing I write is wasted
 * Can automate parts of my journal, and have the template get generated for me (and be customized)
+
+As far as how I edit it, I go have the repo pulled down on my pc and I will edit it like that when I am on there, But I have it set up simple enough to just edit in the github online editor, which is what I use from my phone or outside device. Currently 80% of the time I am using the github online editor and sending commits with the message "update" directly to main. Yes, its not proper git technique, but its just a journal lol.
